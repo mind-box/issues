@@ -7,7 +7,7 @@
 
 MindBox is a note-taking app designed to help you record your ideas anytime, anywhere, and it perfectly supports Markdown grammar and makes it easier to write.
 
-## Issues The role of the repository
+## The role of this repository
 
 As the name of the repository indicates, the role of this repository is to collect feedback in the process of using the MindBox, you can submit bugs in this repository issues, or submit a feature request, this repository is a bridge between developers and users, the developer of the MindBox will actively discuss problems and feature requirements with everyone in this repository.
 

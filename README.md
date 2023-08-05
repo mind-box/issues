@@ -1,6 +1,8 @@
 # MindBox(灵感盒子)
 
-> Our [official website address] (https://www.mindbox.cc), you can learn more about the content of the MindBox on the official website
+[中文](https://github.com/mind-box/issues/blob/main/README_zh_cn.md)
+
+> Our [official website address](https://www.mindbox.cc), you can learn more about the content of the MindBox on the official website
 > 
 
 MindBox is a note-taking app designed to help you record your ideas anytime, anywhere, and it perfectly supports Markdown grammar and makes it easier to write.
@@ -19,6 +21,6 @@ As the developer of the MindBox, I hope to make the MindBox perfect in order to 
 
 3. If there is no similar issue, click the `New Issue` button to create your issue.
     
-If it's a feature requirement: Describe in detail what you want, including why you added it, the general user interaction, and the effect.
+   - If it's a feature requirement: Describe in detail what you want, including why you added it, the general user interaction, and the effect.
     
-If you are reporting a bug: please provide your operating system version, MindBox version, screen recording or screenshot of the problem, and how to reproduce the bug step by step.
+   - If you are reporting a bug: please provide your operating system version, MindBox version, screen recording or screenshot of the problem, and how to reproduce the bug step by step.
